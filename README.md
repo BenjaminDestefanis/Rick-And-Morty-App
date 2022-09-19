@@ -15,8 +15,12 @@ Futura academia de programacion.
 
 ### Redes Sociales
 
-https://github.com/BenjaminDestefanis
-https://www.instagram.com/banjyscodes/
-https://twitter.com/DestefanisBenj
-https://www.linkedin.com/in/benjaminisraelbaigorria/
+https://github.com/BenjaminDestefanis   
+
+https://www.instagram.com/banjyscodes/      
+
+https://twitter.com/DestefanisBenj  
+
+https://www.linkedin.com/in/benjaminisraelbaigorria/    
+
 
