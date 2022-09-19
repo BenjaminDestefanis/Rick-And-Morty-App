@@ -1,0 +1,51 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px 25px 0 0;
+    
+}
+
+h1{
+    margin-top: 10px;
+}
+
+
+h1 span{
+    color: #384E77;
+}
+
+
+.logo{
+    color: #8BBEB2;
+    font-size: 45px;
+}
+
+.social-container{
+    display: flex;
+   
+}
+
+.social-container a{
+    color: #384E77;
+    font-size: 40px;
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: .4s all ease-in-out;
+}
+
+a:hover{
+    color: #fff;
+}
+
+.mark-container{
+    font-family: VT323 , monospace;
+    margin-left: 30px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 24px;
+
+}
+
